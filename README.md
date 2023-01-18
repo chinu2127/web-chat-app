@@ -8,4 +8,4 @@
 
 # This chat app has the feature of User Sign Up, User Login . We also can have the one to one chat as well as group chat.
 
-# Socket.io has the role in this app for sending messages realtime.
+# Socket.io has the role in this app for communication realtime.
